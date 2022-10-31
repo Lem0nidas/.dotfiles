@@ -1,0 +1,11 @@
+set number
+set relativenumber
+set autoindent
+set history=50
+set ruler
+set showcmd
+set incsearch
+set mouse=a
+set nowrap
+
+colorscheme gruvbox 
